@@ -1,0 +1,10 @@
+step 1 
+clone 從github (雲端倉庫) )repoistory 抓到本機
+step 2 
+pull 把最新版本抓下來 
+step 3
+有編輯後stage(到暫存區)
+step 4
+commit 在本機產生一個點 
+step 5
+push 到 repoistory 
