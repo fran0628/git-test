@@ -1,3 +1,4 @@
+2021/5/9
 step 1 
 clone 從github (雲端倉庫) )repoistory 抓到本機
 step 2 
